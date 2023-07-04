@@ -1,3 +1,9 @@
+
+
+//note:The provided link to fetch data was not working also no map api key was provided ,
+// We are having a mapScreen which will show user it's current location ,as user searches the through the textinput
+//  I have designed it to make api call and get new location based on it and will show it
+//Also the map will show previous searches to the user on the map
 import React from 'react';
 import { Provider } from 'react-redux';
 import { View } from 'react-native';
